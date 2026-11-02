@@ -1,42 +1,29 @@
-## Sobre mí
+# Julio César Deglise Cárdenas
 
-Soy desarrollador fullstack enfocado en backend, con experiencia construyendo aplicaciones reales.
+**Full Stack Developer** · Node.js · NestJS · React / Next.js · PostgreSQL
+Argentina (remoto) · Español nativo · Português bilíngue
 
-Trabajé en el desarrollo de una API de logística utilizando NestJS, implementando autenticación, manejo de bases de datos y conexión con servicios externos como pagos y almacenamiento.
+Construyo aplicaciones completas y las pongo en producción: APIs, autenticación, migraciones, pagos e IA integrada con WhatsApp.
 
-Además, tengo experiencia trabajando en equipo, colaborando en el desarrollo del proyecto y gestionando cambios en el código de forma organizada.
+## Proyectos destacados
 
-Me interesa seguir creciendo en el desarrollo backend y participar en proyectos cada vez más desafiantes.
+- **[Clínica Turnos](https://github.com/JCJuniorCardenas/clinica-turnos)**: agenda para clínicas con asistente de WhatsApp con IA y panel en vivo.
+- **[WhatsApp Bot con IA](https://github.com/JCJuniorCardenas/whatsapp-ai-bot)**: agenda turnos en lenguaje natural; 200+ tests y evaluación de la IA.
+- **[Team Acebal](https://github.com/JCJuniorCardenas/team-acebal)**: plataforma multiusuario para academias, con datos aislados por usuario.
+- **[Los 108](https://github.com/JCJuniorCardenas/palta-landing)**: landing, tienda de pedidos y panel de administración.
 
-## Tecnologías que utilizo 
+Todo con demos y código en mi portfolio: https://portfolio-junior-a5f7.vercel.app
 
- Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
+## Tecnologías
 
-Backend
-- Node.js
-- NestJS
-- TypeScript
+- **Backend:** Node.js, NestJS, TypeScript, REST APIs, JWT
+- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Bases de datos:** PostgreSQL, TypeORM, Prisma, MongoDB
+- **Cloud y herramientas:** AWS, Terraform, Docker, Git, GitHub, Swagger
+- **Testing:** Jest, Vitest
 
- Bases de datos
-- PostgreSQL
-- MongoDB
+## Contacto
 
- Herramientas y otros
-- Git
-- GitHub
-- Swagger
-- JWT (JSON Web Token)
-- Bcrypt
-- TypeORM
-
-- ---
-
-📫 Contacto
-
-📧 Email: juliocesar45941285@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/julio-c%C3%A9sar-junior-deglise-cardenas-3246b8296/
-💻 GitHub: https://github.com/JCJuniorCardenas
+- Email: juliocesar45941285@gmail.com
+- LinkedIn: https://www.linkedin.com/in/julio-c%C3%A9sar-junior-deglise-cardenas-3246b8296/
+- Portfolio: https://portfolio-junior-a5f7.vercel.app
