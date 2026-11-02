@@ -8,7 +8,7 @@ Construyo aplicaciones completas y las pongo en producción: APIs, autenticació
 ## Proyectos destacados
 
 - **[Clínica Turnos](https://github.com/JCJuniorCardenas/clinica-turnos)**: agenda para clínicas con asistente de WhatsApp con IA y panel en vivo.
-- **[WhatsApp Bot con IA](https://github.com/JCJuniorCardenas/whatsapp-ai-bot)**: agenda turnos en lenguaje natural; 200+ tests y evaluación de la IA.
+- **[Automotores Batalla](https://github.com/JCJuniorCardenas/automotores-batalla)**: sitio de una concesionaria con catálogo, visor 360°, simulador de cuotas y panel de administración.
 - **[Team Acebal](https://github.com/JCJuniorCardenas/team-acebal)**: plataforma multiusuario para academias, con datos aislados por usuario.
 - **[Los 108](https://github.com/JCJuniorCardenas/palta-landing)**: landing, tienda de pedidos y panel de administración.
 
